@@ -2,7 +2,7 @@ $(function () {
     $("#about-me").typed({
         strings: [
             "SDE @Nokia",
-            "Masters in E-Business Technology 🎓",
+            "Masters in Business Technology 🎓",
             "University of Ottawa ",
             "In the Genes 🏓",
             "Full Stack Developer 💻 ",
